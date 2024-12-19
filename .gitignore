@@ -4,10 +4,6 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 
-# Ignore build outputs
-bin/
-obj/
-
 # Rider specific files
 .idea/
 *.iml
