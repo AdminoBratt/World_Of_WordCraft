@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OunLZmt395s=",
+  "dgSpecHash": "xvD9+Lo8Vpg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\Wordapp.csproj",
+  "projectFilePath": "C:\\Users\\sigge bratt\\RiderProjects\\World_Of_WordCraft\\Wordapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sigge bratt\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.7\\microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",
     "C:\\Users\\sigge bratt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
