@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\Wordapp.csproj": {}
+    "C:\\Users\\sigge bratt\\RiderProjects\\World_Of_WordCraft\\Wordapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\Wordapp.csproj": {
+    "C:\\Users\\sigge bratt\\RiderProjects\\World_Of_WordCraft\\Wordapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\Wordapp.csproj",
+        "projectUniqueName": "C:\\Users\\sigge bratt\\RiderProjects\\World_Of_WordCraft\\Wordapp.csproj",
         "projectName": "Wordapp",
-        "projectPath": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\Wordapp.csproj",
+        "projectPath": "C:\\Users\\sigge bratt\\RiderProjects\\World_Of_WordCraft\\Wordapp.csproj",
         "packagesPath": "C:\\Users\\sigge bratt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\obj\\",
+        "outputPath": "C:\\Users\\sigge bratt\\RiderProjects\\World_Of_WordCraft\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
