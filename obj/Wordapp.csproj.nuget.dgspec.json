@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj": {}
+    "/Users/ville/RiderProjects/World_Of_WordCraft/Wordapp.csproj": {}
   },
   "projects": {
-    "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj": {
+    "/Users/ville/RiderProjects/World_Of_WordCraft/Wordapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
+        "projectUniqueName": "/Users/ville/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
         "projectName": "Wordapp",
-        "projectPath": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
-        "packagesPath": "/Users/sebastianholmbergnilsson/.nuget/packages/",
-        "outputPath": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/obj/",
+        "projectPath": "/Users/ville/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
+        "packagesPath": "/Users/ville/.nuget/packages/",
+        "outputPath": "/Users/ville/RiderProjects/World_Of_WordCraft/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "/Users/sebastianholmbergnilsson/.nuget/NuGet/NuGet.Config"
+          "/Users/ville/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
