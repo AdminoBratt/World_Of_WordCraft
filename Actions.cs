@@ -17,12 +17,12 @@ public class Actions
         // Map incomming NewWord POST route from client to method
         app.MapPost("/new-word", async (HttpContext context) =>
         {
-            var requestBody = await context.Request.ReadFromJsonAsync<WordRequest>();
-            if (requestBody?.Word is null)
+            var requestBody = await context.Request.ReadFromJsonAsync<Word>();
+            if (requestBody?.word is null)
             {
                 return Results.BadRequest("Word is required.");
             }
-            bool success = await NewWord(requestBody.Word, context.Request.Cookies["ClientId"]);
+            bool success = await NewWord(requestBody.word, context.Request.Cookies["ClientId"]);
             return success ? Results.Ok("Word added successfully.") : Results.StatusCode(500);
         });
     }
