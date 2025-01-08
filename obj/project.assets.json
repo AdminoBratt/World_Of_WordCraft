@@ -634,32 +634,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hultb\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/sebastianholmbergnilsson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hultb\\RiderProjects\\World_Of_WordCraft\\Wordapp.csproj",
+      "projectUniqueName": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
       "projectName": "Wordapp",
-      "projectPath": "C:\\Users\\hultb\\RiderProjects\\World_Of_WordCraft\\Wordapp.csproj",
-      "packagesPath": "C:\\Users\\hultb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hultb\\RiderProjects\\World_Of_WordCraft\\obj\\",
+      "projectPath": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
+      "packagesPath": "/Users/sebastianholmbergnilsson/.nuget/packages/",
+      "outputPath": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\hultb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/sebastianholmbergnilsson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -715,7 +708,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
