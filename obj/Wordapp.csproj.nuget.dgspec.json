@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj": {}
+    "/Users/user/mai24ma/Agil utvecklingskultur, projektledning och kommunikation/World_Of_WordCraft/Wordapp.csproj": {}
   },
   "projects": {
-    "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj": {
+    "/Users/user/mai24ma/Agil utvecklingskultur, projektledning och kommunikation/World_Of_WordCraft/Wordapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
+        "projectUniqueName": "/Users/user/mai24ma/Agil utvecklingskultur, projektledning och kommunikation/World_Of_WordCraft/Wordapp.csproj",
         "projectName": "Wordapp",
-        "projectPath": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
-        "packagesPath": "/Users/sebastianholmbergnilsson/.nuget/packages/",
-        "outputPath": "/Users/sebastianholmbergnilsson/RiderProjects/World_Of_WordCraft/obj/",
+        "projectPath": "/Users/user/mai24ma/Agil utvecklingskultur, projektledning och kommunikation/World_Of_WordCraft/Wordapp.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/mai24ma/Agil utvecklingskultur, projektledning och kommunikation/World_Of_WordCraft/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "/Users/sebastianholmbergnilsson/.nuget/NuGet/NuGet.Config"
+          "/Users/user/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -76,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
