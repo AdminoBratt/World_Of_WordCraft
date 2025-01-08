@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7LERWaBPSXcrChhsRRau6BkuZDnOrR1PHAsU3RGzsf4=",
+  "Hash": "41qJuz39TLDriFfB55sr5IC7MHQYbFKB1kO2U+5LR1Q=",
   "Source": "Wordapp",
   "BasePath": "_content/Wordapp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Wordapp\\wwwroot",
       "Source": "Wordapp",
-      "ContentRoot": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shaab\\RiderProjects\\World_Of_WordCraft\\wwwroot\\",
       "BasePath": "_content/Wordapp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\wwwroot\\app.js",
+      "Identity": "C:\\Users\\Shaab\\RiderProjects\\World_Of_WordCraft\\wwwroot\\app.js",
       "SourceId": "Wordapp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shaab\\RiderProjects\\World_Of_WordCraft\\wwwroot\\",
       "BasePath": "_content/Wordapp",
       "RelativePath": "app.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\app.js"
     },
     {
-      "Identity": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Shaab\\RiderProjects\\World_Of_WordCraft\\wwwroot\\index.html",
       "SourceId": "Wordapp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shaab\\RiderProjects\\World_Of_WordCraft\\wwwroot\\",
       "BasePath": "_content/Wordapp",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\Shaab\\RiderProjects\\World_Of_WordCraft\\wwwroot\\style.css",
       "SourceId": "Wordapp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shaab\\RiderProjects\\World_Of_WordCraft\\wwwroot\\",
       "BasePath": "_content/Wordapp",
       "RelativePath": "style.css",
       "AssetKind": "All",
