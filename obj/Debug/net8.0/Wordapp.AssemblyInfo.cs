@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wordapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eecce68365576c1f79482707da56fc22c73660d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66e99b516d970af9d59bfa56cb6c0aa47bd370cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wordapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wordapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
