@@ -634,20 +634,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sigge bratt\\.nuget\\packages\\": {}
+    "/Users/ville/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\Wordapp.csproj",
+      "projectUniqueName": "/Users/ville/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
       "projectName": "Wordapp",
-      "projectPath": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\Wordapp.csproj",
-      "packagesPath": "C:\\Users\\sigge bratt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sigge bratt\\Desktop\\School\\wordapp-main\\obj\\",
+      "projectPath": "/Users/ville/RiderProjects/World_Of_WordCraft/Wordapp.csproj",
+      "packagesPath": "/Users/ville/.nuget/packages/",
+      "outputPath": "/Users/ville/RiderProjects/World_Of_WordCraft/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\sigge bratt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/ville/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -708,7 +708,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
